@@ -9,3 +9,5 @@ common/__pycache__/
 *.amltmp 
 *.amltemp
 data/
+.env
+.zip
