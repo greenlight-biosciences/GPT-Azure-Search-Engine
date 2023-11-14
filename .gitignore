@@ -11,3 +11,4 @@ common/__pycache__/
 data/
 .env
 .zip
+credentials.env
